@@ -1,0 +1,6 @@
+1588592813416	Rename package 'com.musixapp.favourites.controller'
+1588592855505	Rename package 'com.musixapp.favourites.service'
+1588592881004	Rename package 'com.musixapp.favourites.model'
+1588592909287	Rename type 'FavouritesTest'
+1588592933240	Rename type 'FavouritesControllerTest'
+1588592959597	Rename type 'FavouritesServiceImplTest'
